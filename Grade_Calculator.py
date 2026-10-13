@@ -11,7 +11,7 @@ elif obtained_marks < 0:
     print("Obtained marks cannot be negative.")
 else:
     percentage = (obtained_marks / total_marks) * 100
-    print(f"Your percentage is: {percentage}%")
+    print(f"Your percentage is: {percentage:.2f}%")
     if percentage >= 90:
      grade = 'A+'
     elif percentage >= 80:

@@ -1,4 +1,4 @@
-# Python Grade Calculator 🎓
+# Python Grade Calculator 
 
 A simple beginner-friendly Python project that calculates a student's percentage and assigns a grade based on the percentage obtained.
 
